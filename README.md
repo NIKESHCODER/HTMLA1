@@ -6,7 +6,7 @@ This project contains basic HTML practice files that demonstrate various fundame
 
 **Image**  tags using both local and external sources
 
-Ordered and unordered lists with different types (default, roman, alphabetical, disc, circle, etc.)
+**Ordered and unordered lists** with different types (default, roman, alphabetical, disc, circle, etc.)
 
 **It includes two HTML files:** <br>
 
