@@ -2,9 +2,9 @@
 **Description**
 This project contains basic HTML practice files that demonstrate various fundamental elements of HTML, such as:
 
-Anchor **(<a>)** tags with both absolute and relative paths
+**Anchor (<a>)** tags with both absolute and relative paths
 
-Image **(<img>)** tags using both local and external sources
+**Image (<img>) **tags using both local and external sources
 
 Ordered and unordered lists with different types (default, roman, alphabetical, disc, circle, etc.)
 
@@ -26,11 +26,4 @@ Open index.html in any web browser.
 
 Click the provided link to view lists.html in a new tab.
 
-**📚 Topics Covered**
-Anchor Tags (<a>)
-
-Image Tags (<img>)
-
-Ordered Lists (<ol>)
-
-Unordered Lists (<ul>)
+**📚 Topics Covered**   Anchor Tags (<a>)   Image Tags (<img>)   Ordered Lists (<ol>)   Unordered Lists (<ul>)
